@@ -1,7 +1,15 @@
 ### Hi there 👋
 
+
+
+🧑🏾‍💼 Connect with me on [https://www.linkedin.com/in/oedo3/](Linkedin)
+⚙️ Worked in C#, C++, Java, JavaScript, and Python
+👇🏾 Check out my projects below!
+
 <!--
 **oedo3/oedo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+📄 View my resume at 
 
 Here are some ideas to get you started:
 
