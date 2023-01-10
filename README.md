@@ -2,7 +2,7 @@
 
 
 
-- 🧑🏾‍💼 Connect with me on [https://www.linkedin.com/in/oedo3/](Linkedin)
+- 🧑🏾‍💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/oedo3/)
 - ⚙️ Worked in C#, C++, Java, JavaScript, and Python
 - 👇🏾 Check out my projects below!
 
