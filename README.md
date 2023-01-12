@@ -1,6 +1,6 @@
 ### Hi there 👋🏾, I'm Osay!
 
-
+- this is my second/organized github account
 
 - 🧑🏾‍💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/oedo3/)
 - ⚙️ Worked in C#, C++, Java, JavaScript, and Python
