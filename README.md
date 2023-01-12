@@ -3,7 +3,7 @@
 - this is my second/organized github account
 
 - 🧑🏾‍💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/oedo3/)
-- ⚙️ Worked in C#, C++, Java, JavaScript, and Python
+- ⚙️ Worked in C#, C++, Java, JavaScript, Python, html and css
 - 👇🏾 Check out my projects below!
 
 <!--
