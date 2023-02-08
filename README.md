@@ -2,14 +2,15 @@
 
 - this is my second/organized github account
 
-- 🧑🏾‍💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/oedo3/)
+- 👔 Connect with me on [LinkedIn](https://www.linkedin.com/in/oedo3/)
+- 📄 View my resume at [oedo3.tech](https://www.oedo3.tech)
 - ⚙️ Worked in C#, C++, Java, JavaScript, Python, html and css
 - 👇🏾 Check out my projects below!
 
 <!--
 **oedo3/oedo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-📄 View my resume at 
+
 
 Here are some ideas to get you started:
 
