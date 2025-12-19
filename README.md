@@ -5,14 +5,10 @@
 - Experience with Java, Python, JavaScript, C#, SQL
 - Building projects focused on clean code, testing, and fundamentals
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/oedo3/)
-- 💻 [oedo3.tech](https://www.oedo3.tech)
-- 📂 Featured projects below
+🔗 **LinkedIn:** https://www.linkedin.com/in/oedo3/  
+💻 **Website:** https://www.oedo3.tech  
 
-
-
-
-
+📂 **Featured projects below**
 
 
 
