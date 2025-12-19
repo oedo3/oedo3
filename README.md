@@ -1,9 +1,9 @@
 ### Hi 👋🏾 I’m Osayamen
 
-• CS @ UMKC (Graduating 2025)
-• Interested in Software Engineering, QA, and Test Automation
-• Experience with Java, Python, JavaScript, C#, SQL
-• Building projects focused on clean code, testing, and fundamentals
+- CS @ UMKC (Graduated 2025)
+- Interested in QA, Data Engineering, and Test Automation
+- Experience with Java, Python, JavaScript, C#, SQL
+- Building projects focused on clean code, testing, and fundamentals
 
 
 🔗 [LinkedIn](https://www.linkedin.com/in/oedo3/)
