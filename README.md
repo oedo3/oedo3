@@ -1,4 +1,4 @@
-### Hi 👋🏾 I’m Osayamen
+### Hi 👋🏾 I’m Osay
 
 - CS @ UMKC (Graduated 2025)
 - Interested in QA, Data Engineering, and Test Automation
